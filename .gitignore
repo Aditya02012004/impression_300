@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+myenv/
+
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore large data files or directories
+data/
+
+# Ignore models if they are large or unnecessary
+models/
+
+# Optionally ignore notebooks if they don't need to be in version control
+notebooks/
